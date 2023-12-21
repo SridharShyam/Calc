@@ -162,9 +162,8 @@ buttons.forEach((button) => {
 
 ```
 ## OUTPUT:
-![Alt text](<shyam/calcapp/static/Screenshot (44).png>)
-
-![Alt text](<shyam/calcapp/static/Screenshot (45).png>)
+![Screenshot (44)](https://github.com/SridharShyam/Calc/assets/144871368/4f6b72ce-f4dc-4709-ab60-325e0284e45c)
+![Screenshot (45)](https://github.com/SridharShyam/Calc/assets/144871368/4ed3f256-e973-4239-bd9a-6841dd635890)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
